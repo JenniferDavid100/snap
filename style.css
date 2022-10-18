@@ -1,0 +1,38 @@
+.grid_container{
+;
+  padding-top: 100px;
+
+}
+.container1{
+margin-right: 50px;
+text-align: left;
+
+}
+.heading{
+  font-size: 80px;
+}
+.subheading{
+color: grey;
+padding-top: 30px;
+}
+.container2{
+  margin-left:  50px;
+}
+.register_button{
+  margin-right: 35px;
+  color: grey;
+}
+.login_link{
+  margin-right: 20px;
+
+}
+.img1{
+height:550px;
+width: 450px;
+}
+.grid_2{
+  padding-top: 90px;
+}
+.button_2{
+  margin-top:  30px;
+}
